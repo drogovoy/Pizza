@@ -1,0 +1,8 @@
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\Newtonsoft.Json.dll
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\Newtonsoft.Json.xml
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+\\scnas01\userdata\drogovoy\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
